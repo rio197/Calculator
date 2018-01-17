@@ -16,7 +16,15 @@ public class Calculator {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        System.out.println("Calculator");
+        System.out.println("Operation List");
+        System.out.println("1. Addition");
+        System.out.println("2. Subtraction");
+        System.out.println("3. Multiplication");
+        System.out.println("4. Division");
+        System.out.println("Enter the first number");
+        System.out.println("Enter the second number");
+        System.out.println("Select the operation to be performed");
     }
     
 }
